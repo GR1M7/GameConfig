@@ -13,4 +13,4 @@ GR1M's CS:GO config
 -tickrate 128 -novid -console +exec gr1m_csgo.cfg
 
 / ! \ This config is extremely outdated.
-Current config is all default CS settings
+Current config is all default CS settings.
